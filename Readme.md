@@ -2,9 +2,9 @@
 *Files to look at*:
 
 * [CustomVerticalAppointmentTemplate.ascx](./CS/WebSite/CustomSchedulerForms/CustomVerticalAppointmentTemplate.ascx) (VB: [CustomVerticalAppointmentTemplate.ascx](./VB/WebSite/CustomSchedulerForms/CustomVerticalAppointmentTemplate.ascx))
-* [CustomVerticalAppointmentTemplate.ascx.cs](./CS/WebSite/CustomSchedulerForms/CustomVerticalAppointmentTemplate.ascx.cs) (VB: [CustomVerticalAppointmentTemplate.ascx](./VB/WebSite/CustomSchedulerForms/CustomVerticalAppointmentTemplate.ascx))
+* [CustomVerticalAppointmentTemplate.ascx.cs](./CS/WebSite/CustomSchedulerForms/CustomVerticalAppointmentTemplate.ascx.cs) (VB: [CustomVerticalAppointmentTemplate.ascx.vb](./VB/WebSite/CustomSchedulerForms/CustomVerticalAppointmentTemplate.ascx.vb))
 * [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
-* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to filter appointments by custom field values
 
