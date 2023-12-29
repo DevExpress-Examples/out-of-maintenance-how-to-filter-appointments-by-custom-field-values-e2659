@@ -1,8 +1,3 @@
-<!-- default badges list -->
-![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/128546835/13.1.8%2B)
-[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E2659)
-[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
-<!-- default badges end -->
 <!-- default file list -->
 *Files to look at*:
 
@@ -38,9 +33,6 @@
 * [VerticalAppointmentTemplate.ascx.cs](./CS/WebSite/DevExpress/ASPxSchedulerForms/VerticalAppointmentTemplate.ascx.cs) (VB: [VerticalAppointmentTemplate.ascx.vb](./VB/WebSite/DevExpress/ASPxSchedulerForms/VerticalAppointmentTemplate.ascx.vb))
 <!-- default file list end -->
 # How to filter appointments by custom field values
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e2659/)**
-<!-- run online end -->
 
 
 <p>This example illustrates how to filter appointments by custom field values. A particular value is selected via the ASPxComboBox. In the ASPxClientComboBox.SelectedIndexChanged event handler this value is stored in the HiddenField and the scheduler is refreshed via the ASPxClientScheduler.Refresh() method. Then, on the server side, the ASPxScheduler.FilterAppointment event handler is fired. The value from the HiddenField is used to filter appointments.</p>
